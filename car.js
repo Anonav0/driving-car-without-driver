@@ -11,6 +11,7 @@ class Car {
     this.friction = 0.05;
     this.angle = 0;
 
+    this.sensor = new Sensor(this);
     this.controls = new Controls();
   }
   #move() {
@@ -46,6 +47,7 @@ class Car {
 
   update() {
     this.#move();
+    this.sensor.update();
   }
 
   draw(ctx) {
@@ -57,5 +59,7 @@ class Car {
     ctx.fill();
 
     ctx.restore();
+
+    this.sensor.draw(ctx);
   }
 }
