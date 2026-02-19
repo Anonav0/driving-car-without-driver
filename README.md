@@ -1,8 +1,8 @@
 
 
 
+![Recording2026-02-19135401-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/543b24b7-2c30-4b40-a2b6-3a609dd9f9b7)
 
-![Recording2026-02-19135401-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/387b3947-c9b7-42c1-aacd-3167253374b2)
 
 # A Car that drives itself.
 
