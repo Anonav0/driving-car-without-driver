@@ -1,3 +1,7 @@
+
+![Screencastfrom2026-03-0412-47-36-ezgif com-optimize](https://github.com/user-attachments/assets/4ac3a807-34e9-430b-8b82-70d3d6bacab7)
+
+
 # 🚗 Self-Driving Car using First-Principles Machine Learning
 
 A simple **self-driving car simulation** built completely from scratch — without using any external machine learning libraries.  
